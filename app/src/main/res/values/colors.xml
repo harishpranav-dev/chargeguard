@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="background">#FFFFFF</color>
+    <color name="card_background">#F5F5F5</color>
+    <color name="divider">#E0E0E0</color>
+
+    <!-- Text -->
+    <color name="text_primary">#1A1A1A</color>
+    <color name="text_secondary">#757575</color>
+
+    <!-- Charging states -->
+    <color name="charging_ok">#00C853</color>
+    <color name="not_charging">#FF1744</color>
+    <color name="fast_charging">#2979FF</color>
+    <color name="slow_charging">#FF9100</color>
+    <color name="idle">#BDBDBD</color>
+
+    <!-- Notification / status bar -->
+    <color name="colorPrimary">#1A1A1A</color>
+    <color name="colorPrimaryVariant">#333333</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorSecondary">#00C853</color>
+    <color name="colorOnSecondary">#FFFFFF</color>
+    <color name="colorSurface">#FFFFFF</color>
+    <color name="colorOnSurface">#1A1A1A</color>
+</resources>

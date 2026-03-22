@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ChargeGuard</string>
+    <string name="status_idle">Plug in your charger</string>
+    <string name="status_monitoring">Checking charger…</string>
+    <string name="status_charging_ok">Charging normally</string>
+    <string name="status_not_charging">Not charging!</string>
+    <string name="status_fast_charging">Fast charging</string>
+    <string name="status_slow_charging">Slow charging</string>
+    <string name="label_battery">Battery</string>
+    <string name="label_status">Status</string>
+    <string name="label_history">History</string>
+    <string name="label_show_more">Show more ↓</string>
+    <string name="label_show_less">Show less ↑</string>
+    <string name="label_clear_history">Clear</string>
+    <string name="btn_stop_alert">Stop Alert</string>
+    <string name="history_empty">No events recorded yet</string>
+    <string name="notification_channel_name">ChargeGuard Alerts</string>
+    <string name="notification_channel_desc">Alerts when charger is connected but not charging</string>
+</resources>
