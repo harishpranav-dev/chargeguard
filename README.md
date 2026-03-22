@@ -22,5 +22,7 @@ instantly and alerts you.
 - ViewBinding
 - Material Design
 
+An demo video is on process we make it publish soon.....#staytune
+
 ## Min SDK: 29 (Android 10)
 ## Target SDK: 36 (Android 16)
